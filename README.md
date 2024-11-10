@@ -7,5 +7,9 @@ It enables Wi-Fi temporarily to enhance entropic noise, reads a random value fro
 * Libarary test:     test_esp32_rng.py
 * Example:           esp32_rng_random_number.py
 
+Source:  Esp32 technical reference manual (Version 5.2) / Section 25.Random Number Generator (RNG) / Page #604
+
+
 Example of "Classical" code not using the direct call to the ESP32 hardware and calling 'urandom' lib instead (pseudo random number)
 * esp32_random_number.py
+

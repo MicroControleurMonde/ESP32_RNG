@@ -13,3 +13,7 @@ Source:  Esp32 technical reference manual (Version 5.2) / Section 25.Random Numb
 Example of "Classical" code not using the direct call to the ESP32 hardware and calling 'urandom' lib instead (pseudo random number)
 * esp32_random_number.py
 
+# RNG validation
+* Considering that the Espressif ESP32 chip has already been tested and approved using the Dieharder Random Number Test Suite (version 3.31.1),
+I will not repeat the tests to validate the reliability of the generator.
+

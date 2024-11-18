@@ -24,8 +24,9 @@ While testing my RNG on RP2040, I became very aware of the entropy weakness prov
 
 So the decision is to also test the Espressif ESP32 chip to confirm its reliability as a TRNG.
 
-Tests used:
+Testing tools used:
 
 * Ent, Fourmilab Switzerland
 * Dieharder version 3.31.1
+
 

@@ -10,7 +10,7 @@ It enables Wi-Fi temporarily to enhance entropic noise, reads a random value fro
 Source:  Esp32 technical reference manual (Version 5.2) / Section 25.Random Number Generator (RNG) / Page #604
 
 
-Example of "Classical" code not using the direct call to the ESP32 hardware and calling 'urandom' lib instead (pseudo random number)
+Example of "Classical" code **not using** the direct call to the ESP32 hardware and calling 'urandom' lib instead (pseudo random number)
 * esp32_random_number.py
 
 The ESP32 RNG generates random integer numbers as 32-bit values.

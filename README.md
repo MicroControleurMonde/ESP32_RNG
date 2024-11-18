@@ -16,6 +16,16 @@ Example of "Classical" code **not using** the direct call to the ESP32 hardware 
 The ESP32 RNG generates random integer numbers as 32-bit values.
 
 # RNG validation
-* Considering that the Espressif ESP32 chip has already been tested and approved using the Dieharder Random Number Test Suite (version 3.31.1),
-I will not repeat the tests to validate the reliability of the generator.
+~~* Considering that the Espressif ESP32 chip has already been tested and approved using the Dieharder Random Number Test Suite (version 3.31.1),~~
+~~I will not repeat the tests to validate the reliability of the generator.~~
+### Update(24.11.24)
+
+While testing my RNG on RP2040, I became very aware of the entropy weakness provided by my MAY. 
+
+So the decision is to also test the Espressif ESP32 chip to confirm its reliability as a TRNG.
+
+Tests used:
+
+* Ent, Fourmilab Switzerland
+* Dieharder version 3.31.1
 

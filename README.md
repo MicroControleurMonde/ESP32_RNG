@@ -42,6 +42,7 @@ Testing tools used:
 
 - [Ent Report -Raw](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent_Report_ESP32.txt)
 - [Ent Report Analyse](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent_Report_Analyse.md)
+- [CAcert Test Report](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/CAcert%20result%20ESP32.png)
 
 # Dieharder Test Report
 (https://webhome.phy.duke.edu/~rgb/General/dieharder.php) Robert G. Brown

@@ -32,8 +32,18 @@ Testing tools used:
 
 
 # Ent Test Report 
+  (fourmilab.ch / John Walker)
 - Sample size: **13.4 MB**
 - Total generated: **1'180'000 values**
 
 - [Ent Report] (https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent%20Report%20ESP32-%20Pseudorandom%20Number%20Sequence%20Test%20Program.txt)
 - [Ent Report Analyse](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent_Report_Analyse.md)
+
+
+# Special tribute:
+
+## Passing of John Walker
+
+We are deeply saddened to hear of the passing of John Walker, one of the founders of Autodesk. He died at home in Switzerland, on 2nd February 2024, aged 74.
+
+[The announcement was shared here.](https://www.engineering.com/a-cad-legend-passes-autodesk-founder-john-walker-1949-to-2024/)

@@ -35,4 +35,5 @@ Testing tools used:
 - Sample size: **13.4 MB**
 - Total generated: **1'180'000 values**
 
-[Ent Report Analyse](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent_Report_Analyse.md)
+- [Ent Report] (https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent%20Report%20ESP32-%20Pseudorandom%20Number%20Sequence%20Test%20Program.txt)
+- [Ent Report Analyse](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent_Report_Analyse.md)

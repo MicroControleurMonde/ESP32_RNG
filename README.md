@@ -30,3 +30,8 @@ Testing tools used:
 * Dieharder version 3.31.1
 
 
+
+# Ent Test Report 
+- Sample size: **13.4 MB**
+- Total generated: **1'180'000 values**
+[Ent Report](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent_Report_Analyse.md)

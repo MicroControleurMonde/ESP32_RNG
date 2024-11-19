@@ -26,20 +26,26 @@ So the decision was to also test the Espressif ESP32 chip to confirm its reliabi
 
 Testing tools used:
 
-* Ent, Fourmilab Switzerland
+* Ent (28.01.2008)
 * Dieharder version 3.31.1
 
-
-
 # Ent Test Report 
-  (fourmilab.ch / John Walker)
+  ([www.fourmilab.ch](https://www.fourmilab.ch/random/)) John Walker
 - Sample size: **13.4 MB**
 - Total generated: **1'180'000 values**
 
-- [Ent Report -Raw] (https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent_Report_ESP32.txt)
+- [Ent Report -Raw](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent_Report_ESP32.txt)
 - [Ent Report Analyse](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/Ent_Report_Analyse.md)
 
+# Dieharder Test Report
+(https://webhome.phy.duke.edu/~rgb/General/dieharder.php) Robert G. Brown
 
+- Sample size: **13.4 MB**
+- Total generated: **1'180'000 values**
+
+- [Dieharder Report - Raw](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/DieHard_Tests_esp32%20%232.txt)
+- [Dieharder Report Analyses](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/DieHard_Tests_Analyses.md)
+  
 # Special tribute:
 
 ## Passing of John Walker

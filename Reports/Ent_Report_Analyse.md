@@ -48,4 +48,4 @@ The test shows that, although the ESP32 random number generator produces relativ
 - The Monte Carlo method for Pi provides a very imprecise result.
 - There is noticeable correlation between successive samples, which is not ideal for a random generator.
 
-In summary, while the ESP32 random number generator may be sufficient for general applications, it is not suitable for high-fidelity randomness required in areas such as **cryptography** and other sensitive applications.
+In summary, while the ESP32 random number generator may be sufficient for general applications, **it is not suitable** for high-fidelity randomness required in areas such as **cryptography** and other sensitive applications.

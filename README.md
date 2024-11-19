@@ -15,6 +15,8 @@ Example of "Classical" code **not using** the direct call to the ESP32 hardware 
 
 The ESP32 RNG generates random integer numbers as 32-bit values.
 
+## Performance:
+
 - Time taken to generate 180000 values: 90 seconds (avg)
 - Throughput: 7934  Bytes/sec
 - 2000 random values / sec.

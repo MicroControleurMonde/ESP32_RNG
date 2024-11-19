@@ -20,7 +20,7 @@ The ESP32 RNG generates random integer numbers as 32-bit values.
 ~~I will not repeat the tests to validate the reliability of the generator.~~
 ### Update(24.11.24)
 
-While testing my RNG on RP2040, I became very aware of the entropy weakness provided by my MCU generator. 
+While testing my RNG on RP2040 [Link](https://github.com/MicroControleurMonde/RP2040-RNG)), I became very aware of the entropy weakness provided by my MCU generator. 
 
 So the decision was to also test the Espressif ESP32 chip to confirm its reliability as a TRNG.
 
@@ -45,6 +45,8 @@ Testing tools used:
 
 - [Dieharder Report - Raw](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/DieHard_Tests_esp32%20%232.txt)
 - [Dieharder Report Analyses](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/DieHard_Tests_Analyses.md)
+
+  
   
 # Special tribute:
 

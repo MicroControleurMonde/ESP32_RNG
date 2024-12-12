@@ -5,7 +5,7 @@ A Micro-python library which provides an interface to generate a TRUE random num
 It enables Wi-Fi temporarily to enhance entropic noise, reads a random value from the RNG_DATA_REG, and then disables Wi-Fi.
 
 * Library :            **esp32_rng.py**
-* Libarary test:       **test_esp32_rng.py**
+* Library test:       **test_esp32_rng.py**
 * Example:             **esp32_rng_random_number.py**
 
 **Source**: `Espressif ESP32 technical reference manual (Version 5.2) / Section 25.Random Number Generator (RNG) / Page #604`

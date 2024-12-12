@@ -1,4 +1,4 @@
-# ESP32_RNG
+# ESP32 RNG
 ![Link](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/ESP32download.jpg)
 
 A Micro-python library which provides an interface to generate a TRUE random number using the ESP32's hardware RNG. 

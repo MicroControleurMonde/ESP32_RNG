@@ -24,6 +24,14 @@ The method for reading the RNG is exactly the same. Same register.
 
 I will do the tests and the publication of the results in a while.
 
+## Platform
+
+The code was implemented for an Espressif ESP32 microcontroller on a NODEMCU ESP32 Development Board.
+
+    MicroPython v1.23.0 on 2024-06-02; Generic ESP32 module with ESP32
+
+- Chip is ESP32-D0WD (revision v1.0)
+
 ## Performance:
 
 - Time taken to generate 180000 values: 90 seconds (avg)
@@ -61,8 +69,7 @@ Testing tools used:
 
 - [Dieharder Report - Raw](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/DieHard_Tests_esp32%20%232.txt)
 - [Dieharder Report Analyses](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/Reports/DieHard_Tests_Analyses.md)
-
-  
+---
   
 # Special tribute:
 

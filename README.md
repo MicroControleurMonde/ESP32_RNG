@@ -20,7 +20,11 @@ The ESP32 RNG generates random integer numbers as 32-bit values.
 
 I just had a look at the **ESP32-C3** technical documentation and **bingo** !
 
-The method for reading the RNG is exactly the same. Same register. I will do the tests and the publication of the results in a while.
+The method for reading the RNG is exactly the same. Same register. 
+
+Only the address of the **RNG_DATA_REG_ADD** register changes from **'0x3FF75144'** to **'0x600260B0'**
+
+I will do the tests and the publication of the results in a while.
 
 ## Platform
 
